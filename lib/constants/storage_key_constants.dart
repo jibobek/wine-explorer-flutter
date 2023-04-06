@@ -1,0 +1,1 @@
+const kFavoritesKey = "favorites";
